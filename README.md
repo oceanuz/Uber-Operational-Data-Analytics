@@ -1,16 +1,26 @@
-
-<img width="1274" height="804" alt="Ubersc2" src="https://github.com/user-attachments/assets/567847e0-bc2a-416c-adba-1e20e980bd15" />
-Detailed Data Analysis and Drill-Through Structure 🔍
-
-In this section, I designed a Drill-Through mechanism that allows you to go from summary data to raw data. I performed location-based demand analysis by identifying the most preferred departure/arrival points. I enabled the analysis of both starting and ending points in the same model using Inactive Relationship management. I also added Reset Slicer for users to reset filters with a single click and Bookmark features for a full data view.
-<img width="1272" height="799" alt="Ubersc1" src="https://github.com/user-attachments/assets/10487d28-e7dc-4ed4-9d9d-a7ae3ef3eedf" />
-Time Series and Demand Analysis ⏰
-
-I identified peak hours during the day by dividing reservation requests into 10-minute intervals. I visualized demand intensity on an hourly and daily basis using a Heatmap showing weekly trends. This analysis provides critical insights for optimizing driver distribution and developing dynamic pricing strategies. I not only visualized the data but also transformed it into operational efficiency.
-<img width="1270" height="800" alt="Ubersc3" src="https://github.com/user-attachments/assets/b1f368c4-a596-4998-b998-b75dd1bb20ce" />
 Uber Operational Performance Summary 📊
 
 This dashboard brings together key KPIs (Booking Count, Total Revenue, Distance) on a single screen. I used Measure Selector to enable dynamic switching between metrics. I measured operational efficiency by analyzing profitability based on vehicle type, payment methods, and day/night trip distribution. My goal is to enable stakeholders to track revenue trends and trip efficiency in real time.
+<img width="1272" height="799" alt="Ubersc1" src="https://github.com/user-attachments/assets/3135e50d-9776-4140-a936-077f567e9e77" />
+
+
+
+<img width="1274" height="804" alt="Ubersc2" src="https://github.com/user-attachments/assets/a89bb55b-909e-4e45-bd5c-f8fde36536fe" />
+Time Series and Demand Analysis ⏰
+
+I identified peak hours during the day by dividing reservation requests into 10-minute intervals. I visualized demand intensity on an hourly and daily basis using a Heatmap showing weekly trends. This analysis provides critical insights for optimizing driver distribution and developing dynamic pricing strategies. I not only visualized the data but also transformed it into operational efficiency.
+
+
+
+<img width="1270" height="800" alt="Ubersc3" src="https://github.com/user-attachments/assets/5b77d464-4729-45f6-a7f0-7e796b1be2df" />
+Detailed Data Analysis and Drill-Through Structure 🔍
+
+In this section, I designed a Drill-Through mechanism that allows you to go from summary data to raw data. I performed location-based demand analysis by identifying the most preferred departure/arrival points. I enabled the analysis of both starting and ending points in the same model using Inactive Relationship management. I also added Reset Slicer for users to reset filters with a single click and Bookmark features for a full data view.
+
+
+
+
+
 
 
 
